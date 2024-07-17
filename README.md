@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jon Baillie.
-- 👀 I’m interested in traditionally on-prem architecture, turned cloud devops
+- 👀 I was interested in traditional on-prem architecture at the start of my career (ca. 2015), turned cloud devops
 - 🌱 I’m currently learning Terraform and AWS
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Grew up in England for 20 years, moved to Germany before I turned 21.
